@@ -77,9 +77,7 @@ A Flutter-based application that replicates the core functionalities of the Goog
 ```
 lib/
 ├── presentation/      # UI-related logic and state management 🧠
-│   ├── bloc/         # BLoC files for business logic and state management 📊
-│   ├── screens/      # UI screens (Home, Add/Edit Contact) 🖼️
-│   ├── widgets/      # Reusable UI components 🔄
+   ├── bloc/         # BLoC files for business logic and state management 📊
 ├── data/             # Data layer (e.g., repositories) 📚
 ├── domain/           # Business logic and models (e.g., Contact model) 📋
 └── main.dart         # Application entry point 🚪
